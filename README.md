@@ -1,7 +1,7 @@
 # EduVoice
 
 
-<p align="center"><a href="https://github.com/DhyanShah22/EduVoice"><img src="https://socialify.git.ci/cfgmumbai24/Team-58/image?language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark" alt="EduVoice" width="640" height="320" /></a></p>
+<p align="center"><a href="https://github.com/DhyanShah22/EduVoice"><img src="[https://socialify.git.ci/cfgmumbai24/Team-58/image?language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark](https://www.google.com/imgres?q=rural%20students&imgurl=https%3A%2F%2Fd12aarmt01l54a.cloudfront.net%2Fcms%2Fimages%2FMedia-20220413153514%2F1200-630.png&imgrefurl=https%3A%2F%2Findiaai.gov.in%2Farticle%2Fthis-is-how-conversational-ai-rebuilds-education-in-rural-india&docid=PtvQp_vjF0ID3M&tbnid=v6vKD2SZlo6GsM&vet=12ahUKEwi4-_je55uIAxVjwzgGHZtrGR4QM3oECB0QAA..i&w=1200&h=630&hcb=2&ved=2ahUKEwi4-_je55uIAxVjwzgGHZtrGR4QM3oECB0QAA)" alt="EduVoice" width="640" height="320" /></a></p>
 <p id="description">Education is a fundamental right, yet millions of students in rural areas worldwide lack access to quality educational resources. This project, developed for VOPA (Voluntary Organization for Public Awareness), a nonprofit dedicated to improving education in villages, aims to bridge this gap using cutting-edge technology. By integrating machine learning (ML), large language models (LLMs), and modern web development frameworks, we’ve built a platform that enhances the learning experience for both students and teachers.</p>
 
 <h1> The Vision </h1>
