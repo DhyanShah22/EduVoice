@@ -1,6 +1,5 @@
 # EduVoice
 
-<h1 align="center" id="title">EduVoice</h1>
 
 <p align="center"><a href="https://github.com/DhyanShah22/EduVoice"><img src="https://socialify.git.ci/cfgmumbai24/Team-58/image?language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark" alt="EduVoice" width="640" height="320" /></a></p>
 <p id="description">Education is a fundamental right, yet millions of students in rural areas worldwide lack access to quality educational resources. This project, developed for VOPA (Voluntary Organization for Public Awareness), a nonprofit dedicated to improving education in villages, aims to bridge this gap using cutting-edge technology. By integrating machine learning (ML), large language models (LLMs), and modern web development frameworks, we’ve built a platform that enhances the learning experience for both students and teachers.</p>
