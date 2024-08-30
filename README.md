@@ -22,3 +22,6 @@
    LLM-Enhanced Document Interaction: A sophisticated LLM-driven chat interface built using LangChain and Streamlit enables users to interact with documents, providing context-aware answers to queries.
 </p>
 
+
+<h2> Blog </h2>
+<p> <a href="https://dhyanshah.hashnode.dev/revolutionizing-rural-education-with-ai-a-comprehensive-learning-platform"> <img src = "" alt = "Blog" /> </a> </p>
